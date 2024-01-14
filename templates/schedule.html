@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UCSB Course Schedule Builder</title>
+  <link rel="stylesheet" href="{% print url_for('static', filename='style.css') %}">
+</head>
+
+<body>
+  <script>
+    const blockHeight = 25;
+    const blockWidth = 150;
+    const blockRows = 30;
+    const blockColumns = 5;
+    const gutter = 50;
+    const scale = 4;
+
+    function grid(id) {
+      let canvas = document.getElementById(id);
+      let ctx = canvas.getContext('2d');
+      canvas.width = (gutter + (blockColumns * blockWidth)) * scale;
+      canvas.height = blockRows * blockHeight * scale;
+      canvas.style.width = canvas.width / scale + "px";
+      canvas.style.height = canvas.height / scale + "px";
+
+      ctx.scale(scale, scale);
+
+      ctx.strokeStyle = "#003660";
+      ctx.lineWidth = 1;
+      for (let i = 0; i < blockColumns; i++) {
+        for (let j = 0; j < blockRows; j++) {
+          ctx.strokeRect(gutter + (i * blockWidth), j * blockHeight, blockWidth, blockHeight);
+        }
+      }
+
+      ctx.textAlign = "right";
+      ctx.fillStyle = "#003660";
+      ctx.font = "bold 10px Avenir";
+      for (let i = 0; i < 4; i++) {
+        ctx.fillText(`${i + 8}:00 AM`, 45, 25 * (2 * i + 1) + 4);
+        ctx.fillText(`${i + 8}:30 AM`, 45, 25 * (2 * i + 2) + 4);
+      }
+      ctx.fillText(`12:00 PM`, 45, 25 * 9 + 4);
+      ctx.fillText(`12:30 PM`, 45, 25 * 10 + 4);
+      for (let i = 0; i < 10; i++) {
+        ctx.fillText(`${i + 1}:00 PM`, 45, 25 * (2 * i + 11) + 4);
+        ctx.fillText(`${i + 1}:30 PM`, 45, 25 * (2 * i + 12) + 4);
+      }
+      ctx.textAlign = "center";
+      ctx.font = "bold 12px Avenir";
+      ctx.fillText("Monday", 125, 15);
+      ctx.fillText("Tuesday", 275, 15);
+      ctx.fillText("Wednesday", 425, 15);
+      ctx.fillText("Thursday", 575, 15);
+      ctx.fillText("Friday", 725, 15);
+    }
+
+    function drawCourse(id, code, day, start, end, prof="") {
+      let canvas = document.getElementById(id);
+      let ctx = canvas.getContext('2d');
+
+      let x = [];
+
+      for (let i = 0; i < 5; i++) {
+        let dayList = ["M", "T", "W", "R", "F"];
+        if (day.includes(dayList[i])) {
+          switch (dayList[i]) {
+            case "M":
+              x = gutter + (blockWidth * 0);
+              break;
+            case "T":
+              x = gutter + (blockWidth * 1);
+              break;
+            case "W":
+              x = gutter + (blockWidth * 2);
+              break;
+            case "R":
+              x = gutter + (blockWidth * 3);
+              break;
+            case "F":
+              x = gutter + (blockWidth * 4);
+              break;
+          }
+          let y = (start - 8) * blockHeight * 2 + blockHeight;
+          let duration = (end - start) * 2;
+
+          ctx.lineWidth = 2;
+          ctx.fillStyle = "#DAE6E6";
+          ctx.strokeStyle = "#3D4952";
+          ctx.fillRect(x, y, blockWidth, duration * blockHeight);
+          ctx.strokeRect(x, y, blockWidth, duration * blockHeight);
+
+          ctx.textAlign = "center";
+          ctx.font = "bold 11px Avenir";
+          ctx.fillStyle = "#3D4952";
+          ctx.fillText(code, x + 75, y + 12);
+
+          let startString = `${Math.floor(start)}:${Math.round((start - Math.floor(start)) * 60)}`;
+          let endString = `${Math.floor(end)}:${Math.round((end - Math.floor(end)) * 60)}`;
+          if (Math.round((start - Math.floor(start)) * 60) < 10) startString += "0";
+          if (Math.round((end - Math.floor(end)) * 60) < 10) endString += "0";
+
+          ctx.fillText(`${startString} ~ ${endString}`, x + 75, y + 25);
+
+          ctx.fillText(`${prof}`, x + 75, y + 36);
+        }
+      }
+    }
+
+    function extractWords(str, a, b) {
+      const scheduleStrings = [];
+      for (let i = 0; i < str.length; i++) {
+        if (str.charAt(i) === a) {
+          const stopIndex = str.indexOf(b, i);
+          if (stopIndex !== -1)
+            scheduleStrings.push(str.substring(i + 1, stopIndex));
+        }
+      }
+      return scheduleStrings;
+    }
+
+    function renderSchedule(id, schedule) {
+      for(let i = 0; i < schedule.length; i++) {
+        drawCourse(id, schedule[i][0], schedule[i][1], schedule[i][2], schedule[i][3], schedule[i][6]);
+      }   
+    }
+
+    const scheduleString = `
+      {% autoescape off %}
+      {{ schedule_string }}
+      {% endautoescape %}
+    `;
+    let schedules = JSON.parse(scheduleString);
+    schedules = schedules.slice(0, 8);
+    let scheduleCount = schedules.length;
+  </script>
+  <header>
+    <a href="/">
+      <h1>
+        <span class="highlight-first-letter">U</span>csb
+        <span class="highlight-first-letter">C</span>ourse
+        <span class="highlight-first-letter">S</span>chedule
+        <span class="highlight-first-letter">B</span>uilder
+      </h1>
+    </a>
+  </header>
+  <main>
+    <h2>Schedules</h2>
+    <section id="canvases">
+
+    </section>
+  </main>
+  <footer>
+    &copy;2024 Hannah Kim, Andrew Wang, Hsinpin Wen, Joshua Wolfgram <br> Not an official UCSB application.
+  </footer>
+  <script>
+    for(let i = 0; i < scheduleCount; i++) {
+      const canvas = document.createElement("CANVAS");
+      canvas.id = `canvas-${i}`;
+      let h3 = document.createElement("H3");
+      h3.innerHTML = `Schedule #${i + 1}`;
+      document.getElementById("canvases").appendChild(h3);
+      document.getElementById("canvases").appendChild(canvas);
+      grid(`canvas-${i}`);
+      renderSchedule(`canvas-${i}`, schedules[i]);
+    }
+    if (scheduleCount <= 0) {
+      canvases.innerHTML = 
+      `
+      <h3 class="error">Sorry, we could not find any schedules that fit your parameters.</h3>
+      `;
+    }
+  </script>
+</body>
+
+</html>

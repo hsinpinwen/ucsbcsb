@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UCSB Course Schedule Builder</title>
+  <link rel="stylesheet" href="{% print url_for('static', filename='style.css') %}">
+</head>
+<body>
+  <header>
+    <a href="/">
+      <h1>
+        <span class="highlight-first-letter">U</span>csb
+        <span class="highlight-first-letter">C</span>ourse
+        <span class="highlight-first-letter">S</span>chedule
+        <span class="highlight-first-letter">B</span>uilder
+      </h1>
+    </a>
+  </header>
+  <main>
+    <section>
+      <p>The UCSB Course Schedule Builder aims to make it easy to build your schedule of classes. Simply put in your preferences and list the classes you might want to take, and we'll give you some schedules that will fit your bill!</p>
+    </section>
+    <section>
+      <form action="schedule">
+        <h2>Preferences</h2>
+        <p>
+          No classes before
+          <select name="earliest" id="earliest">
+            <option value="8" selected>8:00 AM (any start time)</option>
+            <option value="9">9:00 AM</option>
+            <option value="10">10:00 AM</option>
+            <option value="11">11:00 AM</option>
+            <option value="12">12:00 PM</option>
+            <option value="13">1:00 PM</option>
+            <option value="14">2:00 PM</option>
+            <option value="15">3:00 PM</option>
+            <option value="16">4:00 PM</option>
+            <option value="17">5:00 PM</option>
+            <option value="18">6:00 PM</option>
+            <option value="19">7:00 PM</option>
+            <option value="20">8:00 PM</option>
+            <option value="21">9:00 PM</option>
+            <option value="22">10:00 PM</option>
+            <option value="23">11:00 PM</option>
+          </select>
+        </p>
+        <p>
+          No classes after
+          <select name="latest" id="latest">
+            <option value="8">8:00 AM</option>
+            <option value="9">9:00 AM</option>
+            <option value="10">10:00 AM</option>
+            <option value="11">11:00 AM</option>
+            <option value="12">12:00 PM</option>
+            <option value="13">1:00 PM</option>
+            <option value="14">2:00 PM</option>
+            <option value="15">3:00 PM</option>
+            <option value="16">4:00 PM</option>
+            <option value="17">5:00 PM</option>
+            <option value="18">6:00 PM</option>
+            <option value="19">7:00 PM</option>
+            <option value="20">8:00 PM</option>
+            <option value="21">9:00 PM</option>
+            <option value="22">10:00 PM</option>
+            <option value="23" selected>11:00 PM (any end time)</option>
+          </select>
+        </p>
+        <p>
+          <!--<input type="checkbox" name="lunch" id="lunch">
+          <label for="lunch">Gap for Lunch? (at least 30 minutes free from <b>11:00 AM to 3:00 PM</b>)</label>
+        </p>
+        <p>
+          <input type="checkbox" name="dinner" id="dinner">
+          <label for="dinner">Gap for Dinner? (at least 30 minutes free from <b>5:00 PM to 8:30 PM</b> )</label>
+        </p>-->
+        
+        <h2>Select Classes</h2>
+
+        <p>Input course codes for classes you might want to take (e.g. "MATH 4B", "ECE 5"):</p>
+        <p>
+          <a href="javascript:addCourse()" class="course-slot-button">Add Course Slot</a>
+          <a href="javascript:deleteCourse(courseSlots)" class="course-slot-button">Remove Course Slot</a>
+        </p>
+        <div id="course-slots-wrapper">
+          <div class="course-input" id="course1">
+            <p>
+              <label for="code1">Course Code: </label>
+              <input type="text" name="code1" id="course-code-1" required>
+            </p>
+            <p class="right">
+              <label for="major1">Major-related?</label>
+              <input type="checkbox" name="major1" id="course-major-1" class="major" onclick="countMajors()">
+            </p>  
+          </div>
+        </div>
+        <p>
+          I want to take <input type="number" name="count" id="count" min="1" max="1" value="1"> classes.
+        </p>
+        <input type="hidden" name="majorcount" id="majorcount" value="1">
+        <input type="hidden" name="coursecount" id="coursecount" value="1">
+        {% if spellingErrors %}
+          {% for err in spellingErrors %}
+            <p class="error">Could not find class with code {{ err }}.</p>
+          {% endfor %}
+        {% endif %}
+        <p>
+          <input type="submit" value="Build My Schedule!">
+        </p>
+      </form>
+    </section>
+  </main>
+  <footer>
+    &copy;2024 Hannah Kim, Andrew Wang, Hsinpin Wen, Joshua Wolfgram <br> Not an official UCSB application.
+  </footer>
+  <script>
+    let courseSlots = 1;
+
+    function addCourse () {
+      const lastCourse = `course${courseSlots}`;
+      courseSlots++;
+      document.getElementById("count").max = courseSlots;
+      document.getElementById("coursecount").value = courseSlots;
+      const newCourseSlot = `
+          <div class="course-input" id="course${courseSlots}">
+            <p>
+              <label for="code${courseSlots}">Course Code: </label>
+              <input type="text" name="code${courseSlots}" id="course-code-${courseSlots}" required>
+            </p>
+            <p class="right">
+              <label for="major1">Major-related?</label>
+              <input type="checkbox" name="major${courseSlots}" id="course-major-${courseSlots}" class="major" onclick="countMajors()">
+            </p>  
+          </div>
+        `;
+      document.getElementById(lastCourse).insertAdjacentHTML("afterEnd", newCourseSlot);
+    }
+
+    function deleteCourse () {
+      if (courseSlots > 1) {
+        document.getElementById(`course${courseSlots}`).remove();
+        courseSlots--;
+        document.getElementById("count").max = courseSlots;
+        document.getElementById("coursecount").value = courseSlots;
+      }
+    }
+
+    function countMajors () {
+      let boxes = document.getElementsByClassName("major");
+      let count = 0;
+      for (let i = 0; i < boxes.length; i++) {
+        if (boxes[i].checked) count++;
+      }
+      document.getElementById("majorcount").value = count;
+    }
+
+    
+  </script>
+</body>
+</html>

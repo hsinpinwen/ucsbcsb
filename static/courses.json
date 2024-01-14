@@ -1,0 +1,8942 @@
+{
+  "GEOG 3": [
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "DING Q",
+      "sections": [
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "WATERS E A"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "BEGIN R C"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "BEGIN R C"
+        },
+        {
+          "days": "T",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "WATERS E A"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "BEGIN R C"
+        },
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "WATERS E A"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "6:00 PM-6:50 PM",
+          "time": "Phelps Hall, 2525",
+          "prof": "Max 27"
+        }
+      ]
+    }
+  ],
+  "GEOG 5": [
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "MONTELLO D R",
+      "sections": [
+        {
+          "days": "W",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "COSTA L M"
+        },
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "COSTA L M"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "SALAMI M I"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "CASIMIRO VIEY"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "CASIMIRO VIEY"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "COSTA L M"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "SALAMI M I"
+        },
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "SALAMI M I"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "CASIMIRO VIEY"
+        }
+      ]
+    }
+  ],
+  "GEOG 8": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "JONES C",
+      "sections": [
+        {
+          "days": "F",
+          "time": "11:00 AM-12:50 PM",
+          "prof": "RODRIGUEZ SEP"
+        },
+        {
+          "days": "W",
+          "time": "1:00 PM-2:50 PM",
+          "prof": "REES J C"
+        }
+      ]
+    }
+  ],
+  "GEOG W 12": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "NELSON T A",
+      "sections": [
+        {
+          "days": "T",
+          "time": "8:00 AM-10:50 AM",
+          "prof": "LINEHAN C J"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "CHEN JIAHUA"
+        },
+        {
+          "days": "R",
+          "time": "12:00 PM-2:50 PM",
+          "prof": "CHE Y"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "MALAK H L"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "CHAN B G"
+        },
+        {
+          "days": "F",
+          "time": "1:00 PM-3:50 PM",
+          "prof": "DUROJAYE P O"
+        },
+        {
+          "days": "F",
+          "time": "12:00 PM-2:50 PM",
+          "prof": "HEIDGER L"
+        }
+      ]
+    }
+  ],
+  "GEOG 20": [
+    {
+      "days": "MWF",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "MATHLOUTHI N",
+      "sections": [
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "REID S C"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "REID S C"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "VAN DEN ABBEE"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "REID S C"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "VAN DEN ABBEE"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "VAN DEN ABBEE"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "BENOIT G E"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "BENOIT G E"
+        },
+        {
+          "days": "F",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "BENOIT G E"
+        }
+      ]
+    }
+  ],
+  "GEOG 109": [
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "BAYLIS K R",
+      "sections": [
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "DAUM K L"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "DAUM K L"
+        }
+      ]
+    }
+  ],
+  "GEOG 110": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "DE CARVALHO L",
+      "sections": [
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "OLATUNDE A O"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "OLATUNDE A O"
+        }
+      ]
+    }
+  ],
+  "GEOG 114A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "HOLZER I O",
+      "sections": []
+    }
+  ],
+  "GEOG 115B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "FRAZIER A",
+      "sections": [
+        {
+          "days": "T",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "LI HSIN JU"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-7:50 PM",
+          "prof": "STEN M G"
+        }
+      ]
+    }
+  ],
+  "GEOG 116": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "LOAICIGA H",
+      "sections": [
+        {
+          "days": "W",
+          "time": "3:00 PM-4:50 PM",
+          "prof": "THACKER R E"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-1:50 PM",
+          "prof": "MUMBY L E"
+        }
+      ]
+    }
+  ],
+  "GEOG 130": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "MCFADDEN J P",
+      "sections": [
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "DIXON A K"
+        }
+      ]
+    }
+  ],
+  "GEOG 132": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "NIDZIEKO N J",
+      "sections": [
+        {
+          "days": "W",
+          "time": "1:00 PM-2:50 PM",
+          "prof": "MYERS D R"
+        }
+      ]
+    }
+  ],
+  "GEOG 134": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "KING J Y",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-10:50 AM",
+          "prof": "LANDESMAN J J"
+        }
+      ]
+    }
+  ],
+  "GEOG 144": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "WHITE J A",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "PEPPERDINE M"
+        },
+        {
+          "days": "F",
+          "time": "12:00 PM-2:50 PM",
+          "prof": "PEPPERDINE M"
+        }
+      ]
+    }
+  ],
+  "GEOG 152": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "CASSELS S L",
+      "sections": [
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "KALOPER S I"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "KALOPER S I"
+        }
+      ]
+    }
+  ],
+  "GEOG 161": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "CARLISLE E W",
+      "sections": [
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "DENNY S M"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "DENNY S M"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "DENNY S M"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "SIERRA CASTIL"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "SIERRA CASTIL"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "SIERRA CASTIL"
+        },
+        {
+          "days": "R",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "PRENTICE WALZ"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "PRENTICE WALZ"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "PRENTICE WALZ"
+        }
+      ]
+    }
+  ],
+  "GEOG 176B": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "MURRAY A",
+      "sections": [
+        {
+          "days": "W",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "LIAN M"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-7:50 PM",
+          "prof": "ALIZADEH D"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-7:50 PM",
+          "prof": "SHI H"
+        }
+      ]
+    }
+  ],
+  "GEOG 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "GEOG 194": [
+    {
+      "days": "F",
+      "time": "11:00 AM-1:50 PM",
+      "prof": "WALKER I J",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "GEOG 198": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "GEOG 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "GEOG 199RA": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "ANTH 2": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "HOELLE J A",
+      "sections": [
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "WADE M L"
+        },
+        {
+          "days": "M",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "COBB E E"
+        },
+        {
+          "days": "M",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "CASTANEDA GAR"
+        },
+        {
+          "days": "M",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "CLEM E M"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ADDONIGIO M B"
+        },
+        {
+          "days": "T",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "ADDONIGIO M B"
+        },
+        {
+          "days": "T",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "NYLEN R W"
+        },
+        {
+          "days": "T",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "JHANJI S"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "JHANJI S"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "NYLEN R W"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "VEZARD M A"
+        },
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "VEZARD M A"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ART K H"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "ART K H"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "BUORO Y"
+        },
+        {
+          "days": "R",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "MUCHHALA M"
+        },
+        {
+          "days": "M",
+          "time": "3:30 PM-4:45 PM",
+          "prof": "CLEM E M"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "CASTANEDA GAR"
+        },
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "COBB E E"
+        },
+        {
+          "days": "T",
+          "time": "3:30 PM-4:45 PM",
+          "prof": "ABAZA G M"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "LINVILLE D D"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MUCHHALA M"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ABAZA G M"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LINVILLE D D"
+        },
+        {
+          "days": "F",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "BUORO Y"
+        }
+      ]
+    }
+  ],
+  "ANTH 3": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "MCCLURE S B",
+      "sections": [
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MITCHELL S T"
+        },
+        {
+          "days": "M",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "FROGGE H L"
+        },
+        {
+          "days": "M",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "FROGGE H L"
+        },
+        {
+          "days": "M",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "SMITH E K"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "DEGNAN B K"
+        },
+        {
+          "days": "T",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "FROGGE H L"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "SMITH E K"
+        },
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "DEGNAN B K"
+        },
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "KLEIN J V"
+        },
+        {
+          "days": "W",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "RARESHIDE E"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "RARESHIDE E"
+        },
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "LOBIONDO M V"
+        },
+        {
+          "days": "F",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "HOFFMAN A J"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "KLEIN J V"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "HOFFMAN A J"
+        }
+      ]
+    }
+  ],
+  "ANTH 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 35",
+      "sections": []
+    }
+  ],
+  "ANTH 100": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "KENNETT D J",
+      "sections": []
+    }
+  ],
+  "ANTH 102": [
+    {
+      "days": "R",
+      "time": "3:00 PM-5:50 PM",
+      "prof": "SALDIVAR TANA",
+      "sections": []
+    }
+  ],
+  "ANTH 116A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "BANACH M",
+      "sections": []
+    }
+  ],
+  "ANTH 123MG": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:50 PM",
+      "prof": "THOMPSON GONZ",
+      "sections": []
+    }
+  ],
+  "ANTH 125": [
+    {
+      "days": "WF",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "PACHECO R",
+      "sections": []
+    }
+  ],
+  "ANTH 129": [
+    {
+      "days": "Cancel",
+      "time": "Cancel",
+      "prof": "Cancel",
+      "sections": []
+    }
+  ],
+  "ANTH 130": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "KILGALLEN J A",
+      "sections": []
+    }
+  ],
+  "ANTH 133": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "VANDERWARKER",
+      "sections": []
+    }
+  ],
+  "ANTH 150": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BODDY A M",
+      "sections": []
+    }
+  ],
+  "ANTH 151T": [
+    {
+      "days": "WF",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "GAULIN S J",
+      "sections": []
+    }
+  ],
+  "ANTH 178": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "GURVEN M D",
+      "sections": []
+    }
+  ],
+  "ANTH 183": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "ANTH 190": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "ANTH 193": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "VANDERWARKER",
+      "sections": []
+    }
+  ],
+  "ANTH 194": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "ANTH 194P": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "ANTH 195B": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "ANTH 195C": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "ANTH 197ES": [
+    {
+      "days": "W",
+      "time": "3:00 PM-5:50 PM",
+      "prof": "SALDIVAR TANA",
+      "sections": []
+    }
+  ],
+  "ANTH 198": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "ANTH 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "ANTH 199RA": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 50",
+      "sections": []
+    }
+  ],
+  "HIST 2B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "ROBERTS L S",
+      "sections": [
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "TRUMBLE E K"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "TRUMBLE E K"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "TRUMBLE E K"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZHAO AARON"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "ZHAO AARON"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "ZHAO AARON"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "DEVRIS J J"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "DEVRIS J J"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "DEVRIS J J"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MAGANGA M"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "MAGANGA M"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "MAGANGA M"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "CHANDRASEKHAR"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "CHANDRASEKHAR"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "CHANDRASEKHAR"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "AGYEIWAA C"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "AGYEIWAA C"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "AGYEIWAA C"
+        },
+        {
+          "days": "F",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "QIU YACONG"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "QIU YACONG"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "QIU YACONG"
+        },
+        {
+          "days": "F",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "CUI W"
+        },
+        {
+          "days": "F",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "CUI W"
+        },
+        {
+          "days": "F",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "CUI W"
+        }
+      ]
+    }
+  ],
+  "HIST 4B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BOULEY B A",
+      "sections": [
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "KIM S J"
+        },
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "KIM S J"
+        },
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "KIM S J"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "SERNA A"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "SERNA A"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "SERNA A"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "GAO X"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "GAO X"
+        },
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "GAO X"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "SHARP V A"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "SHARP V A"
+        },
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "SHARP V A"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "STAMBAYEV A"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "STAMBAYEV A"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "STAMBAYEV A"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "KELEHAN K M"
+        },
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "KELEHAN K M"
+        },
+        {
+          "days": "R",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "KELEHAN K M"
+        },
+        {
+          "days": "F",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MIN J"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "MIN J"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "MIN J"
+        }
+      ]
+    }
+  ],
+  "HIST 8A": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "COBO BETANCOU",
+      "sections": [
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ABDELBARY K M"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "ABDELBARY K M"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "ABDELBARY K M"
+        },
+        {
+          "days": "R",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "MCWAID B R"
+        },
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "MCWAID B R"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "MCWAID B R"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "MCQUILKIN C R"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "MCQUILKIN C R"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "MCQUILKIN C R"
+        }
+      ]
+    }
+  ],
+  "HIST 9": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "LANSING C L",
+      "sections": []
+    },
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "SCHMIDT E M",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "BOULEY B A",
+      "sections": []
+    }
+  ],
+  "HIST 17B": [
+    {
+      "days": "MWF",
+      "time": "4:00 PM-4:50 PM",
+      "prof": "MAJEWSKI J D",
+      "sections": [
+        {
+          "days": "T",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "BIANCO E P"
+        },
+        {
+          "days": "T",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "BIANCO E P"
+        },
+        {
+          "days": "T",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "BIANCO E P"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "KENDALL C R"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "KENDALL C R"
+        },
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "KENDALL C R"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "XU T"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "XU T"
+        },
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "XU T"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "HUNTER P M"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "HUNTER P M"
+        },
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "HUNTER P M"
+        },
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "BROWN M M"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "BROWN M M"
+        },
+        {
+          "days": "R",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "BROWN M M"
+        },
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "MAILANDER E G"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "MAILANDER E G"
+        },
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "MAILANDER E G"
+        },
+        {
+          "days": "F",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ANKRAH C N"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "ANKRAH C N"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "ANKRAH C N"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "MAKUKUTSI M M"
+        },
+        {
+          "days": "F",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "MAKUKUTSI M M"
+        },
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "MAKUKUTSI M M"
+        }
+      ]
+    }
+  ],
+  "HIST 20": [
+    {
+      "days": "MWF",
+      "time": "3:00 PM-3:50 PM",
+      "prof": "MCCRAY W P",
+      "sections": [
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "WILLIAMS G R"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "WILLIAMS G R"
+        },
+        {
+          "days": "R",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "WILLIAMS G R"
+        },
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "WIGHT K M"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "WIGHT K M"
+        },
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "WIGHT K M"
+        }
+      ]
+    }
+  ],
+  "HIST 46B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "SEIKALY S R",
+      "sections": [
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "FALANESCA C"
+        },
+        {
+          "days": "T",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "FALANESCA C"
+        },
+        {
+          "days": "T",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "FALANESCA C"
+        },
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "MILLER I P"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "MILLER I P"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "MILLER I P"
+        }
+      ]
+    }
+  ],
+  "HIST 46MI": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "AFARY J",
+      "sections": [
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MANSOURI S S"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "MANSOURI S S"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "MANSOURI S S"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "FALLAS A"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "FALLAS A"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "FALLAS A"
+        }
+      ]
+    }
+  ],
+  "HIST 49B": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "WARE R T",
+      "sections": [
+        {
+          "days": "F",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "AMOAKO P O"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "AMOAKO P O"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "AMOAKO P O"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "AGYARE G Y"
+        },
+        {
+          "days": "F",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "AGYARE G Y"
+        },
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "AGYARE G Y"
+        }
+      ]
+    }
+  ],
+  "HIST 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 15",
+      "sections": []
+    }
+  ],
+  "HIST 101QA": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "HENDERSON J G",
+      "sections": []
+    }
+  ],
+  "HIST 106T": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "ARONOVA E A",
+      "sections": []
+    }
+  ],
+  "HIST 107C": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "ARONOVA E A",
+      "sections": []
+    }
+  ],
+  "HIST 111B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "LEE J W",
+      "sections": []
+    }
+  ],
+  "HIST 115B": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "LANSING C L",
+      "sections": []
+    }
+  ],
+  "HIST 115R": [
+    {
+      "days": "M",
+      "time": "9:00 AM-11:50 AM",
+      "prof": "BLUMENTHAL",
+      "sections": []
+    }
+  ],
+  "HIST 125": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "BLUMENTHAL",
+      "sections": []
+    }
+  ],
+  "HIST 133B": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "MARCUSE H",
+      "sections": []
+    }
+  ],
+  "HIST 141B": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "RAPPAPORT E D",
+      "sections": []
+    }
+  ],
+  "HIST 141R": [
+    {
+      "days": "T",
+      "time": "12:00 PM-2:50 PM",
+      "prof": "HENDERSON J G",
+      "sections": []
+    }
+  ],
+  "HIST 142AL": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "PERRONE G",
+      "sections": []
+    }
+  ],
+  "HIST 142R": [
+    {
+      "days": "W",
+      "time": "2:00 PM-4:50 PM",
+      "prof": "PERRONE G",
+      "sections": []
+    }
+  ],
+  "HIST 146W": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "MOORE T",
+      "sections": []
+    }
+  ],
+  "HIST 147R": [
+    {
+      "days": "M",
+      "time": "12:00 PM-2:50 PM",
+      "prof": "WARE R T",
+      "sections": []
+    }
+  ],
+  "HIST 174Q": [
+    {
+      "days": "T",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "HAUGHIN C A",
+      "sections": []
+    }
+  ],
+  "HIST 177": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "CHAVEZ-GARCIA",
+      "sections": []
+    }
+  ],
+  "HIST 187A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "ROBERTS L S",
+      "sections": []
+    }
+  ],
+  "HIST 189E": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "SPICKARD P R",
+      "sections": []
+    }
+  ],
+  "HIST 194BH": [
+    {
+      "days": "W",
+      "time": "2:00 PM-4:50 PM",
+      "prof": "BERNSTEIN H J",
+      "sections": []
+    }
+  ],
+  "HIST 195IA": [],
+  "HIST 196": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "HIST 196JA": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HENDERSON J G",
+      "sections": []
+    }
+  ],
+  "HIST 196JB": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HENDERSON J G",
+      "sections": []
+    }
+  ],
+  "HIST 196JC": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HENDERSON J G",
+      "sections": []
+    }
+  ],
+  "HIST 196SJ": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "PARTRIDGE T",
+      "sections": []
+    }
+  ],
+  "HIST 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "HIST 199RA": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "C LIT 35": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BERNARD A",
+      "sections": [
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "SHAW V B"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "SHAW V B"
+        }
+      ]
+    }
+  ],
+  "C LIT 36": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "WEBER E",
+      "sections": [
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "APPINO-TABONE"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "APPINO-TABONE"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "CIANO A"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "CIANO A"
+        }
+      ]
+    }
+  ],
+  "C LIT 50B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "NESCI C",
+      "sections": [
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "BAHRAMI N"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "BAHRAMI N"
+        }
+      ]
+    }
+  ],
+  "C LIT 50C": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "MOAK D",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "HAO H"
+        },
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "HAO H"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LOPATKO E"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LOPATKO E"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "MATTEI M"
+        },
+        {
+          "days": "F",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "MATTEI M"
+        }
+      ]
+    }
+  ],
+  "C LIT 101": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "ZAZZARINO M",
+      "sections": []
+    }
+  ],
+  "C LIT 134": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "TURSI G",
+      "sections": []
+    }
+  ],
+  "C LIT 152": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "OFFERT F",
+      "sections": []
+    }
+  ],
+  "C LIT 155": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "OFFERT F",
+      "sections": []
+    }
+  ],
+  "C LIT 170": [
+    {
+      "days": "W",
+      "time": "2:00 PM-4:50 PM",
+      "prof": "TURSI G",
+      "sections": []
+    }
+  ],
+  "C LIT 179C": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "KITTLER W D",
+      "sections": []
+    }
+  ],
+  "C LIT 181C": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "DELCHEVA M P",
+      "sections": []
+    }
+  ],
+  "C LIT 186B": [
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "MURUAMENDIARA",
+      "sections": []
+    }
+  ],
+  "C LIT 186JJ": [
+    {
+      "days": "W",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "BENJAMIN R",
+      "sections": []
+    }
+  ],
+  "C LIT 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "C LIT 194I": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "C LIT 196H": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "C LIT 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 15",
+      "sections": []
+    }
+  ],
+  "C LIT 199RA": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "PSTAT 5A": [
+    {
+      "days": "R",
+      "time": "T",
+      "prof": "8:00 AM-9:15 AM",
+      "sections": [
+        {
+          "days": "Max 300",
+          "time": "41962",
+          "prof": "TR"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "TR"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "TR"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "TR"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "TR"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "TR"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "MW"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "MW"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "MW"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "MW"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "MW"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "MW"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25"
+        }
+      ]
+    }
+  ],
+  "PSTAT 5H": [
+    {
+      "days": "T",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "MEIRING W",
+      "sections": []
+    }
+  ],
+  "PSTAT 5LS": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "MILLER J B",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "KHAN A J"
+        },
+        {
+          "days": "MW",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "KHAN A J"
+        },
+        {
+          "days": "MW",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "LI YUNING"
+        },
+        {
+          "days": "MW",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "LI YUNING"
+        },
+        {
+          "days": "MW",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ESCOBAR PARRA"
+        },
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "ESCOBAR PARRA"
+        },
+        {
+          "days": "TR",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ZHOU YUAN"
+        },
+        {
+          "days": "TR",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "ZHOU YUAN"
+        },
+        {
+          "days": "TR",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "DAVITYAN M"
+        },
+        {
+          "days": "TR",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "DAVITYAN M"
+        },
+        {
+          "days": "TR",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "BHARADWAJ S R"
+        },
+        {
+          "days": "TR",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "BHARADWAJ S R"
+        }
+      ]
+    }
+  ],
+  "PSTAT 8": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "SOLIS S W",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "DEAMOS E K"
+        },
+        {
+          "days": "MW",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "DEAMOS E K"
+        },
+        {
+          "days": "MW",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "JIN BOTAO"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "HOLMES D E",
+      "sections": [
+        {
+          "days": "TR",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "JIN BOTAO"
+        },
+        {
+          "days": "MW",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "PADILLA D Y"
+        },
+        {
+          "days": "TR",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "PADILLA D Y"
+        }
+      ]
+    }
+  ],
+  "PSTAT 10": [
+    {
+      "days": "WF",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "HOLMES D E",
+      "sections": [
+        {
+          "days": "TR",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "CASTRO E M"
+        },
+        {
+          "days": "TR",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "HE Y"
+        },
+        {
+          "days": "TR",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "MA YUTING"
+        },
+        {
+          "days": "TR",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "HE Y"
+        },
+        {
+          "days": "TR",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "LIN T"
+        },
+        {
+          "days": "TR",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "LIN T"
+        },
+        {
+          "days": "TR",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "HE M"
+        },
+        {
+          "days": "TR",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "HE M"
+        },
+        {
+          "days": "TR",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "MA YUTING"
+        },
+        {
+          "days": "TR",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "BORAC M"
+        }
+      ]
+    }
+  ],
+  "PSTAT 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "PSTAT 115": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "FRANKS A",
+      "sections": [
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "HUGHES L E"
+        },
+        {
+          "days": "W",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "HUGHES L E"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "BRAHME A"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "BRAHME A"
+        }
+      ]
+    }
+  ],
+  "PSTAT 120A": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "SEN R",
+      "sections": [
+        {
+          "days": "M",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "SHEN S"
+        },
+        {
+          "days": "M",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "SHEN S"
+        },
+        {
+          "days": "M",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "XU K"
+        },
+        {
+          "days": "M",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "XU K"
+        },
+        {
+          "days": "M",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "BORSA C"
+        },
+        {
+          "days": "M",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "BORSA C"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "SHI Q"
+        },
+        {
+          "days": "T",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "ZHOU HAOSHENG"
+        },
+        {
+          "days": "M",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "SHI Q"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "ZHU X"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "MILLER J B",
+      "sections": [
+        {
+          "days": "W",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "LAM KA LOK"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "XIAO YEMING"
+        },
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "YU JISU"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "YU JISU"
+        },
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "LAM KA LOK"
+        }
+      ]
+    }
+  ],
+  "PSTAT 120B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "WAINWRIGHT B",
+      "sections": [
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ZHANG HEZHONG"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "XIE X"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "XIE X"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ZHANG HEZHONG"
+        },
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "WANG E"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "WAINWRIGHT B",
+      "sections": [
+        {
+          "days": "M",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "DER WARTANIAN"
+        },
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "PARK M"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "PARK M"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "DER WARTANIAN"
+        },
+        {
+          "days": "M",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "LI HANMO"
+        }
+      ]
+    }
+  ],
+  "PSTAT 120C": [
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "BANG S",
+      "sections": [
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "DUAN S"
+        },
+        {
+          "days": "T",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "TENG J"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "TENG J"
+        }
+      ]
+    }
+  ],
+  "PSTAT 122": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "SEN R",
+      "sections": [
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "WU J"
+        },
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "APONTE K R"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "APONTE K R"
+        },
+        {
+          "days": "M",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "WU J"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "SAHA RAY R",
+      "sections": [
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "CHOE H"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "CHOE H"
+        },
+        {
+          "days": "W",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "EIRIKSDOTTIR"
+        },
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "EIRIKSDOTTIR"
+        }
+      ]
+    }
+  ],
+  "PSTAT 123": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "JAMMALAMADAKA",
+      "sections": [
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "DUAN S"
+        },
+        {
+          "days": "R",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "LIU XUBO"
+        },
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "BABICHENKO S"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "LIU XUBO"
+        },
+        {
+          "days": "R",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "BABICHENKO S"
+        }
+      ]
+    }
+  ],
+  "PSTAT 126": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "PANDEY P",
+      "sections": [
+        {
+          "days": "W",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "FAN C"
+        },
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "FAN C"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "MA XIAORAN"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MA XIAORAN"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "SAHA RAY R",
+      "sections": [
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "XIONG MOYA"
+        },
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "XIONG MOYA"
+        },
+        {
+          "days": "R",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "WANG YAQIAO"
+        },
+        {
+          "days": "R",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "WANG YAQIAO"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZHU ZIMO"
+        }
+      ]
+    }
+  ],
+  "PSTAT 130": [
+    {
+      "days": "R",
+      "time": "T",
+      "prof": "9:30 AM-10:45 AM",
+      "sections": [
+        {
+          "days": "Max 100",
+          "time": "43141",
+          "prof": "W"
+        },
+        {
+          "days": "Space 1",
+          "time": "Max 25",
+          "prof": "W"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "W"
+        },
+        {
+          "days": "Space 1",
+          "time": "Max 25",
+          "prof": "W"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25"
+        }
+      ]
+    }
+  ],
+  "PSTAT 131": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "COBURN K M",
+      "sections": [
+        {
+          "days": "M",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "YU M"
+        },
+        {
+          "days": "M",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "KING B K"
+        },
+        {
+          "days": "M",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "KING B K"
+        },
+        {
+          "days": "M",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "LI QIQI"
+        },
+        {
+          "days": "M",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "O'BRIEN J P"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "COBURN K M",
+      "sections": [
+        {
+          "days": "M",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "LI QIQI"
+        },
+        {
+          "days": "M",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "O'BRIEN J P"
+        },
+        {
+          "days": "M",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "YU M"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LI HANMO"
+        }
+      ]
+    }
+  ],
+  "PSTAT 134": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "OH SANG-YUN",
+      "sections": [
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "AHN J"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "AHN J"
+        },
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "LIU M"
+        },
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "LIU M"
+        }
+      ]
+    }
+  ],
+  "PSTAT 135": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "OH SANG-YUN",
+      "sections": [
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "LEE HYEONGSEO"
+        },
+        {
+          "days": "M",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "LEE HYEONGSEO"
+        },
+        {
+          "days": "M",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "TABATABAI-YAZ"
+        },
+        {
+          "days": "M",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "TABATABAI-YAZ"
+        },
+        {
+          "days": "M",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "LIU ROBIN"
+        }
+      ]
+    }
+  ],
+  "PSTAT 160A": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "TAN YING",
+      "sections": [
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "JIANG H"
+        },
+        {
+          "days": "R",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "JIANG H"
+        },
+        {
+          "days": "R",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "FANG XIANG"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "ZHU ZIMU",
+      "sections": [
+        {
+          "days": "R",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "FANG XIANG"
+        },
+        {
+          "days": "R",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "ZHANG M"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZHANG M"
+        }
+      ]
+    }
+  ],
+  "PSTAT 160B": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "MOUTI S",
+      "sections": [
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "MEJIA BECERRA"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "FENG L"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "FENG L"
+        }
+      ]
+    }
+  ],
+  "PSTAT 170": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "LUDKOVSKI M",
+      "sections": [
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "MEJIA BECERRA"
+        },
+        {
+          "days": "W",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "DUZOYLUM S"
+        },
+        {
+          "days": "W",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "DUZOYLUM S"
+        }
+      ]
+    }
+  ],
+  "PSTAT 171": [
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "GRIGORIAN K",
+      "sections": [
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "ZHOU ZED"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZHOU ZED"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "VATS M"
+        }
+      ]
+    }
+  ],
+  "PSTAT 172A": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "PEDERSEN H W",
+      "sections": [
+        {
+          "days": "T",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "ZHU ZIMO"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "ZHONG S"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "ZHONG S"
+        }
+      ]
+    }
+  ],
+  "PSTAT 174": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "TAN YING",
+      "sections": [
+        {
+          "days": "T",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "BERNSTEIN A D"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "BERNSTEIN A D"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "INSTON J R"
+        },
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "INSTON J R"
+        }
+      ]
+    }
+  ],
+  "PSTAT 182T": [
+    {
+      "days": "T",
+      "time": "6:30 PM-7:45 PM",
+      "prof": "GRIGORIAN K",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PSTAT 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "PSTAT 197B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "BARACALDO LAN",
+      "sections": [
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "MCPHILLIPS E"
+        },
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "MCPHILLIPS E"
+        }
+      ]
+    }
+  ],
+  "PSTAT 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "PHYS 3": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "POPESCU P F",
+      "sections": []
+    }
+  ],
+  "PHYS 3L": [
+    {
+      "days": "T",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PHYS 4": [
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "DOVBNYA A V",
+      "sections": []
+    }
+  ],
+  "PHYS 4L": [
+    {
+      "days": "M",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PHYS 6A": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "FREUND E G",
+      "sections": []
+    },
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "GELLER R M",
+      "sections": []
+    }
+  ],
+  "PHYS 6AL": [
+    {
+      "days": "T",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PHYS 6B": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "FREUND E G",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "FREUND E G",
+      "sections": []
+    }
+  ],
+  "PHYS 6BL": [
+    {
+      "days": "T",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "3:00 PM-4:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-2:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:00 PM-6:50 PM",
+      "prof": "POPESCU P F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PHYS 7A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "KOUTROULAKIS",
+      "sections": [
+        {
+          "days": "R",
+          "time": "1:00 PM-2:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "3:00 PM-4:50 PM",
+          "time": "Ellison Hall, 2617",
+          "prof": "Max 45"
+        },
+        {
+          "days": "ILP, 2209",
+          "time": "Space 1",
+          "prof": "60673"
+        },
+        {
+          "days": "Space 31",
+          "time": "Max 45",
+          "prof": "F"
+        },
+        {
+          "days": "Max 45",
+          "time": "60699",
+          "prof": "3:00 PM-4:50 PM"
+        },
+        {
+          "days": "60707"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "KOUTROULAKIS",
+      "sections": [
+        {
+          "days": "R",
+          "time": "3:00 PM-4:50 PM",
+          "prof": "Space 1"
+        },
+        {
+          "days": "5:00 PM-6:50 PM",
+          "time": "ILP, 2207",
+          "prof": "Max 45"
+        },
+        {
+          "days": "South Hall, 1431",
+          "time": "Space 25",
+          "prof": "60749"
+        },
+        {
+          "days": "Space 7",
+          "time": "Max 45",
+          "prof": "F"
+        },
+        {
+          "days": "Max 45",
+          "time": "60764",
+          "prof": "3:00 PM-4:50 PM"
+        },
+        {
+          "days": "60772"
+        }
+      ]
+    }
+  ],
+  "PHYS CS 10": [
+    {
+      "days": "MW",
+      "time": "9:00 AM-10:15 AM",
+      "prof": "BLAES O M",
+      "sections": []
+    }
+  ],
+  "PHYS 13BL": [
+    {
+      "days": "W",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "NELSON H",
+      "sections": [
+        {
+          "days": "W",
+          "time": "3:30 PM-4:45 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "3:30 PM-4:45 PM",
+          "time": "Broida Hall, 3314",
+          "prof": "Max 6"
+        }
+      ]
+    }
+  ],
+  "PHYS CS 15B": [
+    {
+      "days": "W",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "NELSON H",
+      "sections": [
+        {
+          "days": "W",
+          "time": "3:30 PM-4:45 PM",
+          "prof": "Space 5"
+        },
+        {
+          "days": "3:30 PM-4:45 PM",
+          "time": "Broida Hall, 3314",
+          "prof": "Max 10"
+        }
+      ]
+    }
+  ],
+  "PHYS 20BL": [
+    {
+      "days": "T",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "T",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "T",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "W",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "R",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "R",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "W",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "M",
+      "time": "4:00 PM-6:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    },
+    {
+      "days": "M",
+      "time": "7:00 PM-9:50 PM",
+      "prof": "FYGENSON D K",
+      "sections": []
+    }
+  ],
+  "PHYS 21": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "BANTA I C",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "Girvetz Hall, 2129",
+          "prof": "Max 30"
+        },
+        {
+          "days": "ILP, 3103",
+          "time": "Space Full",
+          "prof": "39693"
+        }
+      ]
+    }
+  ],
+  "PHYS 22": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "CARATELLI D",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space 5"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "Girvetz Hall, 2123",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Girvetz Hall, 2123",
+          "time": "Space 17",
+          "prof": "62315"
+        }
+      ]
+    }
+  ],
+  "PHYS 24": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "STREICHAN S",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "Girvetz Hall, 2119",
+          "prof": "Max 0"
+        },
+        {
+          "days": "Girvetz Hall, 2119",
+          "time": "Space 2",
+          "prof": "62323"
+        }
+      ]
+    }
+  ],
+  "PHYS 29": [
+    {
+      "days": "T",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HENNAWI J F",
+      "sections": [
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "Space 1"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "ILP, 3310",
+          "prof": "Max 18"
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HENNAWI J F",
+      "sections": [
+        {
+          "days": "F",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "Space 15"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "Buchanan Hall, 1934",
+          "prof": "Max 25"
+        }
+      ]
+    }
+  ],
+  "PHYS CS 32": [
+    {
+      "days": "W",
+      "time": "W",
+      "prof": "1:00 PM-2:50 PM",
+      "sections": [
+        {
+          "days": "Girvetz Hall, 2108",
+          "time": "BIBILASHVILI",
+          "prof": "BANTA I C"
+        },
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PHYS CS 35": [
+    {
+      "days": "R",
+      "time": "R",
+      "prof": "11:00 AM-12:50 PM",
+      "sections": [
+        {
+          "days": "Girvetz Hall, 2124",
+          "time": "GURUSWAMY S",
+          "prof": "BANTA I C"
+        },
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "PHYS 98": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "PHYS 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "PHYS 100B": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "CARLSON J M",
+      "sections": [
+        {
+          "days": "F",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "Space 1"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "Girvetz Hall, 2120",
+          "prof": "Max 25"
+        },
+        {
+          "days": "HSSB, 2251",
+          "time": "Space Closed",
+          "prof": "62331"
+        }
+      ]
+    }
+  ],
+  "PHYS 103": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "JAIN-SHARMA V",
+      "sections": [
+        {
+          "days": "R",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "South Hall, 1430",
+          "prof": "Max 26"
+        }
+      ]
+    }
+  ],
+  "PHYS 104": [
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "SHERWIN M S",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "ILP, 3207",
+          "prof": "Max 25"
+        },
+        {
+          "days": "ILP, 3103",
+          "time": "Space 3",
+          "prof": "39958"
+        }
+      ]
+    }
+  ],
+  "PHYS 110B": [
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "BANTA I C",
+      "sections": [
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "4:00 PM-4:50 PM",
+          "time": "ILP, 3205",
+          "prof": "Max 30"
+        },
+        {
+          "days": "ILP, 4209",
+          "time": "Space Full",
+          "prof": "39990"
+        }
+      ]
+    }
+  ],
+  "PHYS 115A": [
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "YOUNG A F",
+      "sections": [
+        {
+          "days": "F",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "South Hall, 1609",
+          "prof": "Max 25"
+        },
+        {
+          "days": "LSB, 1101",
+          "time": "Space Full",
+          "prof": "62356"
+        }
+      ]
+    }
+  ],
+  "PHYS 115B": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "LIPPINCOTT W",
+      "sections": [
+        {
+          "days": "F",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "ILP, 3101",
+          "prof": "Max 30"
+        }
+      ]
+    }
+  ],
+  "PHYS 119A": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BIBILASHVILI",
+      "sections": [
+        {
+          "days": "F",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "Girvetz Hall, 2116",
+          "prof": "Max 28"
+        }
+      ]
+    }
+  ],
+  "PHYS 119B": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BROWN F L",
+      "sections": [
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "Space 5"
+        },
+        {
+          "days": "4:00 PM-4:50 PM",
+          "time": "ILP, 4205",
+          "prof": "Max 30"
+        }
+      ]
+    }
+  ],
+  "PHYS 123B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "XU C",
+      "sections": []
+    }
+  ],
+  "PHYS 127BL": [
+    {
+      "days": "R",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "LIPMAN E A",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "2:00 PM-4:20 PM",
+          "prof": "Space 2"
+        },
+        {
+          "days": "2:00 PM-4:20 PM",
+          "time": "Broida Hall, 2324",
+          "prof": "Max 11"
+        }
+      ]
+    }
+  ],
+  "PHYS 128AL": [
+    {
+      "days": "MW",
+      "time": "1:00 PM-5:50 PM",
+      "prof": "LUO X",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "1:00 PM-5:50 PM",
+      "prof": "LUO X",
+      "sections": []
+    }
+  ],
+  "PHYS 129L": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "LIPMAN E A",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "3:30 PM-4:45 PM",
+          "prof": "Space 5"
+        },
+        {
+          "days": "3:30 PM-4:45 PM",
+          "time": "Broida Hall, 5223",
+          "prof": "Max 20"
+        }
+      ]
+    }
+  ],
+  "PHYS 132": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "WONG T",
+      "sections": []
+    }
+  ],
+  "PHYS 135": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "SAFINYA C R",
+      "sections": []
+    }
+  ],
+  "PHYS 137": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "MAZIN B A",
+      "sections": [
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "Space 30"
+        }
+      ]
+    }
+  ],
+  "PHYS 138": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "MARCHETTI M",
+      "sections": [
+        {
+          "days": "F",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "Space 12"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "HSSB, 2251",
+          "prof": "Max 25"
+        }
+      ]
+    }
+  ],
+  "PHYS CS 140VA": [
+    {
+      "days": "F",
+      "time": "2:00 PM-3:50 PM",
+      "prof": "BIBILASHVILI",
+      "sections": []
+    }
+  ],
+  "PHYS 142L": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "PHYS 143L": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "PHYS 144L": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "PHYS 145L": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "PHYS 150": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "ZEE A",
+      "sections": []
+    },
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "JAYICH A M",
+      "sections": []
+    }
+  ],
+  "PHYS 198": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "PHYS 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "PHYS 199RA": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "PHYS CS 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 1",
+      "sections": []
+    },
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 1",
+      "sections": []
+    },
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 1",
+      "sections": []
+    },
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 1",
+      "sections": []
+    }
+  ],
+  "CHEM 1A": [
+    {
+      "days": "MWF",
+      "time": "9:00 AM-9:50 AM",
+      "prof": "SYLVESTER B M",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "SVADLENAK N D",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "3:00 PM-3:50 PM",
+      "prof": "PRICE S P",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "4:00 PM-4:50 PM",
+      "prof": "PRICE S P",
+      "sections": []
+    }
+  ],
+  "CHEM 1AL": [
+    {
+      "days": "T",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "MOYA E C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "ZHANG ZHENG",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "MOYA E C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "GODINHO G S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "HOOPER M D",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "ZHAO L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "LOPEZ LEMUS M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "LOPEZ LEMUS M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "ZHAO L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "MAMO K T",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "GODINHO G S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "MAMO K T",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "ZHANG ZHENG",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "MOYA E C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "GODINHO G S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "LOPEZ LEMUS M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "ZHAO L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "ZHANG ZHENG",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "MAMO K T",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "11:00 AM-1:30 PM",
+      "prof": "HOOPER M D",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "CHAE S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "HOOPER M D",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "8:00 AM-10:30 AM",
+      "prof": "CHAE S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "2:00 PM-4:30 PM",
+      "prof": "CHAE S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 1B": [
+    {
+      "days": "MWF",
+      "time": "8:00 AM-8:50 AM",
+      "prof": "FELDWINN D L",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "SYLVESTER B M",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "JOSEPH C A",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "12:00 PM-12:50 PM",
+      "prof": "JOSEPH C A",
+      "sections": []
+    }
+  ],
+  "CHEM 1BL": [
+    {
+      "days": "M",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "TANG T",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "SAUNDERS J M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "KIM B M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "LAMMERT R M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "TILL R C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "L'HEUREUX S J",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "ZHOU J",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "DISMUKE RODRI",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "LIU H",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "REYNAFARJE JO",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "PHAM A V",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "M",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "MURPHY M C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "AKBULUT E S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "HENEIN C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "KIM C Y",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "VASANT R R",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "SAUNDERS J M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "TIETJE-MCKINN",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "XI W",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "TIAN H",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "KAJAL F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "FISHLER B E",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "NANDI A",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "PHAM A V",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "MURPHY M C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "T",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "BASHIR M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "BAKESTANI R",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "ZHOU J",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "GUHA A",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "RODRIGUEZ G",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "SAUNDERS J M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "L'HEUREUX S J",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "TILL R C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "LAMMERT R M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "TANG T",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "DISMUKE RODRI",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "LIU H",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "REYNAFARJE JO",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "GUHA A",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "TIAN H",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "AKBULUT E S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "HENEIN C",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "SAUNDERS J M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "TIETJE-MCKINN",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "XI W",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "RODRIGUEZ G",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "KAJAL F",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "FISHLER B E",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "NANDI A",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "KIM B M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "R",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "VASANT R R",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "8:00 AM-11:50 AM",
+      "prof": "BAKESTANI R",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "KIM C Y",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "F",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "BASHIR M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 3B": [
+    {
+      "days": "MWF",
+      "time": "9:00 AM-9:50 AM",
+      "prof": "CARLINI A S",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 6AL": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "GAINER M J",
+      "sections": [
+        {
+          "days": "T",
+          "time": "8:00 AM-11:50 AM",
+          "prof": "GUILLEN CAMPO"
+        },
+        {
+          "days": "05256",
+          "time": "T",
+          "prof": "PSB-N, 1662"
+        },
+        {
+          "days": "Max 18",
+          "time": "05264",
+          "prof": "8:00 AM-11:50 AM"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 18",
+          "prof": "T"
+        },
+        {
+          "days": "GAINER M J",
+          "time": "Space Full",
+          "prof": "05280"
+        },
+        {
+          "days": "RAMIREZ C",
+          "time": "GAINER M J",
+          "prof": "Max 18"
+        },
+        {
+          "days": "PSB-N, 1670",
+          "time": "LI XINQUAN",
+          "prof": "Space Full"
+        },
+        {
+          "days": "5:30 PM-9:20 PM",
+          "time": "PSB-N, 1652",
+          "prof": "GAINER M J"
+        },
+        {
+          "days": "T",
+          "time": "5:30 PM-9:20 PM",
+          "prof": "WONG M J"
+        },
+        {
+          "days": "05322",
+          "time": "T",
+          "prof": "PSB-N, 1670"
+        },
+        {
+          "days": "Max 18",
+          "time": "05330",
+          "prof": "8:00 AM-11:50 AM"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 18",
+          "prof": "R"
+        },
+        {
+          "days": "GAINER M J",
+          "time": "Space Full",
+          "prof": "05355"
+        },
+        {
+          "days": "LIANG YU",
+          "time": "GAINER M J",
+          "prof": "Max 18"
+        },
+        {
+          "days": "PSB-N, 1652",
+          "time": "HEUSTON A R",
+          "prof": "Space Full"
+        },
+        {
+          "days": "1:00 PM-4:50 PM",
+          "time": "PSB-N, 1662",
+          "prof": "GAINER M J"
+        },
+        {
+          "days": "R",
+          "time": "1:00 PM-4:50 PM",
+          "prof": "LI XINQUAN"
+        },
+        {
+          "days": "05397",
+          "time": "R",
+          "prof": "PSB-N, 1652"
+        },
+        {
+          "days": "Max 18",
+          "time": "05405",
+          "prof": "5:30 PM-9:20 PM"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 18",
+          "prof": "R"
+        },
+        {
+          "days": "GAINER M J",
+          "time": "Space Full",
+          "prof": "56069"
+        },
+        {
+          "days": "HERNANDEZ I D",
+          "time": "YANG J",
+          "prof": "Max 18"
+        },
+        {
+          "days": "PSB-N, 1652",
+          "time": "HERNANDEZ I D",
+          "prof": "Space Full"
+        }
+      ]
+    }
+  ],
+  "CHEM 6BH": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "PETTUS T R",
+      "sections": []
+    }
+  ],
+  "CHEM 6BL": [
+    {
+      "days": "MW",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "SEPETOV L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "LU L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "WU XUAN",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "YANG J",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "5:30 PM-9:20 PM",
+      "prof": "FREIBERG K M",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 6CH": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "PETTUS T R",
+      "sections": []
+    }
+  ],
+  "CHEM CS 11B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "LAVERMAN L E",
+      "sections": []
+    }
+  ],
+  "CHEM 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "CHEM 104": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "MCFARLAND E W",
+      "sections": []
+    }
+  ],
+  "CHEM 109A": [
+    {
+      "days": "MWF",
+      "time": "3:00 PM-3:50 PM",
+      "prof": "LEWIS R B",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "ANYIKA M",
+      "sections": []
+    }
+  ],
+  "CHEM 109B": [
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "ANYIKA M",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "LEWIS R B",
+      "sections": []
+    }
+  ],
+  "CHEM 109C": [
+    {
+      "days": "Cancel",
+      "time": "Cancel",
+      "prof": "Cancel",
+      "sections": []
+    }
+  ],
+  "CHEM 112B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BURATTO S K",
+      "sections": [
+        {
+          "days": "W",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "NOWSHIN S"
+        },
+        {
+          "days": "05546",
+          "time": "W",
+          "prof": "Buchanan Hall, 1934"
+        },
+        {
+          "days": "Max 24",
+          "time": "05553"
+        }
+      ]
+    }
+  ],
+  "CHEM 113B": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "BOWERS M T",
+      "sections": [
+        {
+          "days": "W",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "ZHU ZHIYUAN"
+        },
+        {
+          "days": "05587",
+          "time": "F",
+          "prof": "Girvetz Hall, 1106"
+        },
+        {
+          "days": "Max 16",
+          "time": "05595",
+          "prof": "2:00 PM-2:50 PM"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 16",
+          "prof": "F"
+        },
+        {
+          "days": "BOWERS M T",
+          "time": "Space 1",
+          "prof": "05611"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "KIRTMAN B",
+      "sections": [
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "LIU E Z"
+        },
+        {
+          "days": "05637",
+          "time": "F",
+          "prof": "HSSB, 2201"
+        },
+        {
+          "days": "Max 17",
+          "time": "05645",
+          "prof": "1:00 PM-1:50 PM"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 17",
+          "prof": "F"
+        },
+        {
+          "days": "KIRTMAN B",
+          "time": "Space Full",
+          "prof": "05660"
+        }
+      ]
+    }
+  ],
+  "CHEM 115B": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "METIU H I",
+      "sections": []
+    }
+  ],
+  "CHEM 116AL": [
+    {
+      "days": "F",
+      "time": "12:00 PM-12:50 PM",
+      "prof": "LAVERMAN L E",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "1:00 PM-4:50 PM",
+          "prof": "KANDIYAL P"
+        },
+        {
+          "days": "05694",
+          "time": "MW",
+          "prof": "PSB-N, 1649"
+        },
+        {
+          "days": "Max 10",
+          "time": "05702",
+          "prof": "5:30 PM-9:20 PM"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 12",
+          "prof": "TR"
+        },
+        {
+          "days": "LAVERMAN L E",
+          "time": "Space 3",
+          "prof": "05728"
+        },
+        {
+          "days": "WHEELER K E",
+          "time": "LAVERMAN L E",
+          "prof": "Max 12"
+        },
+        {
+          "days": "PSB-N, 1649",
+          "time": "BROWN K T",
+          "prof": "Space Full"
+        },
+        {
+          "days": "5:30 PM-9:20 PM",
+          "time": "PSB-N, 1649",
+          "prof": "LAVERMAN L E"
+        },
+        {
+          "days": "TR",
+          "time": "8:00 AM-11:50 AM",
+          "prof": "LAVERMAN L E"
+        },
+        {
+          "days": "TR",
+          "time": "8:00 AM-11:50 AM",
+          "prof": "LAVERMAN L E"
+        }
+      ]
+    }
+  ],
+  "CHEM 125L": [
+    {
+      "days": "M",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "WALKER F M",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "5:30 PM-9:20 PM",
+          "prof": "KONTTINEN O R"
+        },
+        {
+          "days": "05785",
+          "time": "TR",
+          "prof": "PSB-N, 2619"
+        },
+        {
+          "days": "Max 16",
+          "time": "05793",
+          "prof": "5:30 PM-9:20 PM"
+        },
+        {
+          "days": "Space 3",
+          "time": "Max 16"
+        }
+      ]
+    }
+  ],
+  "CHEM 130B": [
+    {
+      "days": "MWF",
+      "time": "9:00 AM-9:50 AM",
+      "prof": "YANG Y",
+      "sections": [
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "CHEN BETTY"
+        },
+        {
+          "days": "56150",
+          "time": "F",
+          "prof": "Girvetz Hall, 2120"
+        },
+        {
+          "days": "Max 20",
+          "time": "59485",
+          "prof": "3:00 PM-3:50 PM"
+        },
+        {
+          "days": "Space 7",
+          "time": "Max 21",
+          "prof": "F"
+        },
+        {
+          "days": "YANG Y",
+          "time": "Space 8",
+          "prof": "59493"
+        }
+      ]
+    }
+  ],
+  "CHEM 142B": [
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "GREENE B L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 143": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "JAEGER L A",
+      "sections": []
+    }
+  ],
+  "CHEM 162B": [
+    {
+      "days": "MWF",
+      "time": "9:00 AM-9:50 AM",
+      "prof": "REICH N O",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 163": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "ZHANG LIMING",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 171": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BUTLER A",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CHEM 173B": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "ABU-OMAR M",
+      "sections": [
+        {
+          "days": "T",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "THOMSEN E"
+        },
+        {
+          "days": "05868",
+          "time": "T",
+          "prof": "HSSB, 1227"
+        },
+        {
+          "days": "Max 10",
+          "time": "05876",
+          "prof": "1:00 PM-1:50 PM"
+        },
+        {
+          "days": "Space 4",
+          "time": "Max 15",
+          "prof": "R"
+        },
+        {
+          "days": "ABU-OMAR M",
+          "time": "Space Full",
+          "prof": "05892"
+        }
+      ]
+    }
+  ],
+  "CHEM 183": [
+    {
+      "days": "F",
+      "time": "3:00 PM-3:50 PM",
+      "prof": "SVADLENAK N D",
+      "sections": []
+    }
+  ],
+  "CHEM 184": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HUBER C F",
+      "sections": []
+    }
+  ],
+  "CHEM 186": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "HAYTON T W",
+      "sections": []
+    }
+  ],
+  "CHEM 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "FELDWINN D L",
+      "sections": []
+    },
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "REICH N O",
+      "sections": []
+    }
+  ],
+  "CHEM 196": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "VLCEK V",
+      "sections": []
+    }
+  ],
+  "CHEM 198": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "REICH N O",
+      "sections": []
+    }
+  ],
+  "CHEM 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 50",
+      "sections": []
+    }
+  ],
+  "CHEM CS 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "LAVERMAN L E",
+      "sections": []
+    }
+  ],
+  "MATH 2B": [
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "PORTER M J",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "KEITH M T"
+        },
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "KEITH M T"
+        },
+        {
+          "days": "TR",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "KHOO J K"
+        },
+        {
+          "days": "TR",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "KHOO J K"
+        },
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "BAREI A"
+        },
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "BAREI A"
+        }
+      ]
+    }
+  ],
+  "MATH 3A": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "KUMAR S L",
+      "sections": [
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "DAI J D"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "DAI J D"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "DAI J D"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "DAI J D"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "DAI J D"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "DAI J D"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "ZHOU BOHAN",
+      "sections": [
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "WHITE J M"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "WHITE J M"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "WHITE J M"
+        }
+      ]
+    }
+  ],
+  "MATH 3B": [
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "YAN Z X",
+      "sections": [
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "BISNATH R A"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "BISNATH R A"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "BISNATH R A"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "BISNATH R A"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "CENICEROS H",
+      "sections": [
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "LEE J J B"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LEE J J B"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LEE J J B"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LEE J J B"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "PFAFFINGER J"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "PFAFFINGER J"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "PFAFFINGER J"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "PFAFFINGER J"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MURPHY C"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MURPHY C"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "MURPHY C"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "MURPHY C"
+        }
+      ]
+    }
+  ],
+  "MATH 4A": [
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "PONCE G",
+      "sections": [
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "TUERKOEN M M"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "TUERKOEN M M"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "TUERKOEN M M"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "TUERKOEN M M"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "JUBEIR M"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "JUBEIR M"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "JUBEIR M"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "JUBEIR M"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "HUANG YUMING"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "HUANG YUMING"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "HUANG YUMING"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "HUANG YUMING"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "HUANG YUMING"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MAVRAKIS L J"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MAVRAKIS L J"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "HUANG YUMING"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "JUBEIR M"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "JUBEIR M"
+        }
+      ]
+    }
+  ],
+  "MATH 4B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "WEI G",
+      "sections": [
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "SABATER A J"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "SABATER A J"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "SABATER A J"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "SABATER A J"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MOHAN A"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MOHAN A"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "MOHAN A"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "MOHAN A"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "DIEP-NGUYEN A"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "DIEP-NGUYEN A"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "DIEP-NGUYEN A"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "DIEP-NGUYEN A"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LEE JIHYE"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LEE JIHYE"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "SCHLEY N B",
+      "sections": [
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "RALSTON D J"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "RALSTON D J"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "RALSTON D J"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "RALSTON D J"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "RALSTON D J"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "RALSTON D J"
+        }
+      ]
+    },
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "ZHANG Q",
+      "sections": [
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MOOS C J"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "MOOS C J"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "MOOS C J"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "MOOS C J"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "MOOS C J"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "MOOS C J"
+        }
+      ]
+    }
+  ],
+  "MATH 6A": [
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "CHO G",
+      "sections": [
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "CHEN Z E"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "CHEN Z E"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "CHEN Z E"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "CHEN Z E"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "NIKOLIC D"
+        },
+        {
+          "days": "T",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "NIKOLIC D"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "LANDRY T B",
+      "sections": [
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LIU DEBIN"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LIU DEBIN"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LIU DEBIN"
+        },
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "LIU DEBIN"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "LIU DEBIN"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "LIU DEBIN"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "SHAH S",
+      "sections": [
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZSHORNACK M F"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "ZSHORNACK M F"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZSHORNACK M F"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ZSHORNACK M F"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "ZSHORNACK M F"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "ZSHORNACK M F"
+        }
+      ]
+    }
+  ],
+  "MATH 6B": [
+    {
+      "days": "MWF",
+      "time": "8:00 AM-8:50 AM",
+      "prof": "SUNG B O",
+      "sections": [
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "PUGMIRE J E"
+        },
+        {
+          "days": "R",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "PUGMIRE J E"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "PUGMIRE J E"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "PUGMIRE J E"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "KUMAR S L",
+      "sections": [
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "SUN C"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "SUN C"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "SUN C"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "SUN C"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "SUN C"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "SUN C"
+        }
+      ]
+    }
+  ],
+  "MATH 8": [
+    {
+      "days": "MWF",
+      "time": "12:00 PM-12:50 PM",
+      "prof": "ZHANG YITANG",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "REYES M A"
+        },
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "REYES M A"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "GAMBHEERA ARA",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "PARKER M"
+        },
+        {
+          "days": "MW",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "PARKER M"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "SHAH S",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "PION J E"
+        },
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "PION J E"
+        }
+      ]
+    },
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "HUISGEN-ZIMME",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "MOLANDER M A"
+        },
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "MOLANDER M A"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "TIAN W",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "DARE C E"
+        },
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "DARE C E"
+        }
+      ]
+    },
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "LANDRY T B",
+      "sections": [
+        {
+          "days": "TR",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "XIA Y"
+        },
+        {
+          "days": "TR",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "XIA Y"
+        }
+      ]
+    },
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "ZHANG Q",
+      "sections": [
+        {
+          "days": "MW",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "RICCI F"
+        },
+        {
+          "days": "MW",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "RICCI F"
+        }
+      ]
+    }
+  ],
+  "MATH 34A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "YE R",
+      "sections": [
+        {
+          "days": "W",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "FAUMAN A G"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "FAUMAN A G"
+        },
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "FAUMAN A G"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "FAUMAN A G"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "LOREN J A"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LOREN J A"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LOREN J A"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LOREN J A"
+        },
+        {
+          "days": "M",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "FAUMAN A G"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "FAUMAN A G"
+        }
+      ]
+    },
+    {
+      "days": "MWF",
+      "time": "8:00 AM-8:50 AM",
+      "prof": "PORTER M J",
+      "sections": [
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "SCHIMLECK T L"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "SCHIMLECK T L"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "SEITZ P"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "SEITZ P"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "SEITZ P"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "SEITZ P"
+        },
+        {
+          "days": "T",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "LOWREY K N"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LOWREY K N"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LOWREY K N"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LOWREY K N"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "LI APRIL"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "LI APRIL"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "WU YI-LI"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "LI APRIL"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "LI APRIL"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "WU YI-LI"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "WU YI-LI"
+        }
+      ]
+    }
+  ],
+  "MATH 34B": [
+    {
+      "days": "MWF",
+      "time": "9:00 AM-9:50 AM",
+      "prof": "GARFIELD P M",
+      "sections": [
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "CROW E M"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "CROW E M"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "CROW E M"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "CROW E M"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "RAMIREZ A"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "RAMIREZ A"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "RAMIREZ A"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "RAMIREZ A"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "EPELBAUM D P"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "EPELBAUM D P"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "EPELBAUM D P"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "EPELBAUM D P"
+        },
+        {
+          "days": "R",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "VECERA P D"
+        },
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "VECERA P D"
+        },
+        {
+          "days": "R",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "VECERA P D"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "VECERA P D"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "TUFTE E D"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "TUFTE E D"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "TUFTE E D"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "TUFTE E D"
+        },
+        {
+          "days": "T",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "ZENG H"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "ZENG H"
+        },
+        {
+          "days": "T",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "ZENG H"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "ZENG H"
+        },
+        {
+          "days": "M",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "WU YI-LI"
+        },
+        {
+          "days": "M",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "WU YI-LI"
+        },
+        {
+          "days": "M",
+          "time": "7:00 PM-7:50 PM",
+          "prof": "WU YI-LI"
+        }
+      ]
+    }
+  ],
+  "MATH 101A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "OGRAIN C M",
+      "sections": []
+    }
+  ],
+  "MATH CS 101B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "BUENO CACHADI",
+      "sections": []
+    }
+  ],
+  "MATH 102B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "SCHLEY N B",
+      "sections": []
+    }
+  ],
+  "MATH 104A": [
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "TANG S",
+      "sections": []
+    }
+  ],
+  "MATH 104B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "SU X",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "ZHOU BOHAN",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "PARK J",
+      "sections": []
+    }
+  ],
+  "MATH 108A": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "PARK J",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "MULLATH MOHAM",
+      "sections": []
+    }
+  ],
+  "MATH 108B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "MULLATH MOHAM",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "CHO G",
+      "sections": []
+    }
+  ],
+  "MATH CS 108A": [
+    {
+      "days": "MWF",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "BUENO CACHADI",
+      "sections": []
+    }
+  ],
+  "MATH 111B": [
+    {
+      "days": "MWF",
+      "time": "10:00 AM-10:50 AM",
+      "prof": "LIU Z",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "KRISHNA A",
+      "sections": []
+    }
+  ],
+  "MATH 115A": [
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "ZHANG YITANG",
+      "sections": []
+    }
+  ],
+  "MATH 116": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "AKEMANN C A",
+      "sections": []
+    }
+  ],
+  "MATH 117": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "CRAIG K C",
+      "sections": []
+    },
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "GOODEARL K",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "ZHOU HANMING",
+      "sections": []
+    }
+  ],
+  "MATH 118B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "ABDO E",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "ZHOU HANMING",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "GARCIA-CERVER",
+      "sections": []
+    }
+  ],
+  "MATH 119B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BIRNIR B",
+      "sections": []
+    }
+  ],
+  "MATH CS 120EL": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "PUTINAR M",
+      "sections": []
+    }
+  ],
+  "MATH CS 120FV": [
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "CASTEELS K L",
+      "sections": []
+    }
+  ],
+  "MATH 122A": [
+    {
+      "days": "MWF",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "ZHAO XIAOLEI",
+      "sections": []
+    },
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "JACOBS M A",
+      "sections": []
+    }
+  ],
+  "MATH CS 122A": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "MCCAMMOND J P",
+      "sections": []
+    }
+  ],
+  "MATH 124A": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "ATZBERGER P J",
+      "sections": []
+    }
+  ],
+  "MATH 132A": [
+    {
+      "days": "MWF",
+      "time": "11:00 AM-11:50 AM",
+      "prof": "CASTEELS K L",
+      "sections": []
+    }
+  ],
+  "MATH 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space Full",
+      "sections": []
+    }
+  ],
+  "MATH 197A": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "MATH 197B": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 25",
+      "sections": []
+    }
+  ],
+  "MATH 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "MATH 199RA": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "CMPSC 5A": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "SOLIS S W",
+      "sections": [
+        {
+          "days": "W",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "4:00 PM-4:50 PM",
+          "time": "SSMS, 1301&",
+          "prof": "Max 33"
+        },
+        {
+          "days": "SSMS, 1301&",
+          "time": "Space 2",
+          "prof": "07039"
+        },
+        {
+          "days": "Space 1",
+          "time": "Max 40"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "TANNA A A",
+      "sections": [
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "Space 2"
+        },
+        {
+          "days": "12:00 PM-12:50 PM",
+          "time": "ILP, 4101",
+          "prof": "Max 30"
+        },
+        {
+          "days": "ILP, 4101",
+          "time": "Space 5",
+          "prof": "62653"
+        },
+        {
+          "days": "Space 12",
+          "time": "Max 30",
+          "prof": "F"
+        },
+        {
+          "days": "Max 30",
+          "time": "62679"
+        }
+      ]
+    }
+  ],
+  "CMPSC 5B": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "SOLIS S W",
+      "sections": [
+        {
+          "days": "W",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "Space 12"
+        },
+        {
+          "days": "12:00 PM-12:50 PM",
+          "time": "Phelps Hall, 1448",
+          "prof": "Max 35"
+        },
+        {
+          "days": "Phelps Hall, 2514",
+          "time": "Space 13",
+          "prof": "62232"
+        }
+      ]
+    }
+  ],
+  "CMPSCW 8": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "WANG R K",
+      "sections": [
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "11:00 AM-11:50 AM",
+          "time": "ONLINE",
+          "prof": "Max 38"
+        },
+        {
+          "days": "ONLINE",
+          "time": "Space 1",
+          "prof": "08250"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 38",
+          "prof": "W"
+        },
+        {
+          "days": "Max 37",
+          "time": "08276",
+          "prof": "3:00 PM-3:50 PM"
+        },
+        {
+          "days": "60343",
+          "time": "W",
+          "prof": "ONLINE"
+        },
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "Space 1"
+        }
+      ]
+    }
+  ],
+  "CMPSC 9": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "KHARITONOVA Y",
+      "sections": [
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "10:00 AM-10:50 AM",
+          "time": "Phelps Hall, 1530",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Phelps Hall, 1530",
+          "time": "Space Full",
+          "prof": "57638"
+        },
+        {
+          "days": "Space 1",
+          "time": "Max 30",
+          "prof": "W"
+        },
+        {
+          "days": "Max 30",
+          "time": "57653",
+          "prof": "2:00 PM-2:50 PM"
+        },
+        {
+          "days": "57661",
+          "time": "W",
+          "prof": "Phelps Hall, 1530"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "5:00 PM-5:50 PM",
+          "time": "Phelps Hall, 1530",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Phelps Hall, 1530",
+          "time": "Space Full",
+          "prof": "60400"
+        }
+      ]
+    }
+  ],
+  "CMPSC 16": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "BURK K T",
+      "sections": [
+        {
+          "days": "W",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "11:00 AM-11:50 AM",
+          "time": "Phelps Hall, 3525",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Phelps Hall, 3525",
+          "time": "Space Full",
+          "prof": "07096"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 30",
+          "prof": "W"
+        },
+        {
+          "days": "Max 30",
+          "time": "07112"
+        }
+      ]
+    },
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "MAJEDI M",
+      "sections": [
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "10:00 AM-10:50 AM",
+          "time": "Phelps Hall, 3525",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Phelps Hall, 3525",
+          "time": "Space 1",
+          "prof": "57703"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 30",
+          "prof": "R"
+        },
+        {
+          "days": "Max 30",
+          "time": "57729"
+        }
+      ]
+    }
+  ],
+  "CMPSC 24": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "MIRZA D",
+      "sections": [
+        {
+          "days": "R",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "Space 1"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "Phelps Hall, 3525",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Phelps Hall, 3525",
+          "time": "Space Full",
+          "prof": "07153"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 30",
+          "prof": "R"
+        },
+        {
+          "days": "Max 30",
+          "time": "07179"
+        }
+      ]
+    }
+  ],
+  "CMPSC 40": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "MAJEDI M",
+      "sections": [
+        {
+          "days": "W",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space 11"
+        },
+        {
+          "days": "10:00 AM-10:50 AM",
+          "time": "ILP, 3205",
+          "prof": "Max 30"
+        },
+        {
+          "days": "Girvetz Hall, 1116",
+          "time": "Space 5",
+          "prof": "07229"
+        },
+        {
+          "days": "Space 5",
+          "time": "Max 30"
+        }
+      ]
+    }
+  ],
+  "CMPSC 64": [
+    {
+      "days": "MW",
+      "time": "8:00 AM-9:15 AM",
+      "prof": "MATNI Z A",
+      "sections": [
+        {
+          "days": "T",
+          "time": "2:00 PM-2:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "Phelps Hall, 3525",
+          "prof": "Max 31"
+        },
+        {
+          "days": "Phelps Hall, 3525",
+          "time": "Space Full",
+          "prof": "07260"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 25",
+          "prof": "T"
+        },
+        {
+          "days": "Max 25",
+          "time": "57745"
+        }
+      ]
+    }
+  ],
+  "CMPSC 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "CMPSC 111": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "MATNI Z A",
+      "sections": [
+        {
+          "days": "T",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "4:00 PM-4:50 PM",
+          "time": "Phelps Hall, 1448",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1445",
+          "time": "Space Full",
+          "prof": "07328"
+        }
+      ]
+    }
+  ],
+  "CMPSC 130A": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "VIGODA E J",
+      "sections": [
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "11:00 AM-11:50 AM",
+          "time": "Phelps Hall, 2514",
+          "prof": "Max 35"
+        },
+        {
+          "days": "Girvetz Hall, 2135",
+          "time": "Space Full",
+          "prof": "75176"
+        }
+      ]
+    }
+  ],
+  "CMPSC 130B": [
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "VIGODA E J",
+      "sections": [
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "1:00 PM-1:50 PM",
+          "time": "ILP, 3107",
+          "prof": "Max 30"
+        },
+        {
+          "days": "ILP, 3107",
+          "time": "Space 1",
+          "prof": "07419"
+        },
+        {
+          "days": "Space 1",
+          "time": "Max 30",
+          "prof": "F"
+        },
+        {
+          "days": "Max 30",
+          "time": "62299"
+        }
+      ]
+    }
+  ],
+  "CMPSC 140": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "YANG T",
+      "sections": [
+        {
+          "days": "R",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "6:00 PM-6:50 PM",
+          "time": "Phelps Hall, 1448",
+          "prof": "Max 35"
+        }
+      ]
+    }
+  ],
+  "CMPSC 148": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HOLLERER T",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "South Hall, 1431",
+          "prof": "Max 33"
+        },
+        {
+          "days": "South Hall, 1431",
+          "time": "Space Closed",
+          "prof": "07500"
+        }
+      ]
+    }
+  ],
+  "CMPSC 154": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "BALKIND J M",
+      "sections": [
+        {
+          "days": "R",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space 1"
+        },
+        {
+          "days": "10:00 AM-10:50 AM",
+          "time": "Phelps Hall, 2510",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 2510",
+          "time": "Space Full",
+          "prof": "07542"
+        }
+      ]
+    }
+  ],
+  "CMPSC 156": [
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "CHOW S P",
+      "sections": [
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "5:00 PM-5:50 PM",
+          "time": "Phelps Hall, 3525",
+          "prof": "Max 24"
+        },
+        {
+          "days": "Phelps Hall, 3525",
+          "time": "Space 1",
+          "prof": "57836"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 24"
+        }
+      ]
+    }
+  ],
+  "CMPSC 162": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "FENG YU",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "10:00 AM-10:50 AM",
+          "time": "Phelps Hall, 1448",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1448",
+          "time": "Space Full",
+          "prof": "07591"
+        }
+      ]
+    }
+  ],
+  "CMPSC 165A": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "BEYELER M",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "Phelps Hall, 1444",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1444",
+          "time": "Space 1",
+          "prof": "57919"
+        }
+      ]
+    }
+  ],
+  "CMPSC 165B": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "CHANG SHIYU",
+      "sections": [
+        {
+          "days": "F",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "5:00 PM-5:50 PM",
+          "time": "Phelps Hall, 1440",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1440",
+          "time": "Space Closed",
+          "prof": "07633"
+        }
+      ]
+    }
+  ],
+  "CMPSC 170": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "WOLSKI R M",
+      "sections": [
+        {
+          "days": "W",
+          "time": "4:00 PM-4:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "5:00 PM-5:50 PM",
+          "time": "Phelps Hall, 1448",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1448",
+          "time": "Space 2",
+          "prof": "57927"
+        }
+      ]
+    }
+  ],
+  "CMPSC 176A": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "BELDING E M",
+      "sections": [
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "11:00 AM-11:50 AM",
+          "time": "Phelps Hall, 2532",
+          "prof": "Max 40"
+        },
+        {
+          "days": "Phelps Hall, 2532",
+          "time": "Space Full",
+          "prof": "57968"
+        }
+      ]
+    }
+  ],
+  "CMPSC 178": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "GUPTA T",
+      "sections": [
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "12:00 PM-12:50 PM",
+          "time": "Phelps Hall, 1445",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1448",
+          "time": "Space 6",
+          "prof": "57984"
+        }
+      ]
+    }
+  ],
+  "CMPSC 185": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "SRA M",
+      "sections": [
+        {
+          "days": "T",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "10:00 AM-10:50 AM",
+          "time": "Phelps Hall, 3525",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 3525",
+          "time": "Space Full",
+          "prof": "07807"
+        }
+      ]
+    }
+  ],
+  "CMPSC 189B": [
+    {
+      "days": "T",
+      "time": "2:00 PM-4:50 PM",
+      "prof": "VIGNA G",
+      "sections": [
+        {
+          "days": "T",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "Space Full"
+        }
+      ]
+    }
+  ],
+  "CMPSC 190A": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "LOKSHTANOV D",
+      "sections": [
+        {
+          "days": "R",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "1:00 PM-1:50 PM",
+          "time": "Phelps Hall, 1508",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1448",
+          "time": "Space Full",
+          "prof": "07864"
+        }
+      ]
+    }
+  ],
+  "CMPSC 190DE": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "BARACALDO LAN",
+      "sections": [
+        {
+          "days": "T",
+          "time": "3:00 PM-3:50 PM",
+          "prof": "Space 3"
+        },
+        {
+          "days": "1:00 PM-1:50 PM",
+          "time": "Phelps Hall, 1444",
+          "prof": "Max 5"
+        }
+      ]
+    }
+  ],
+  "CMPSC 190I": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "YAN L",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "Space 1"
+        },
+        {
+          "days": "2:00 PM-2:50 PM",
+          "time": "Phelps Hall, 1440",
+          "prof": "Max 33"
+        },
+        {
+          "days": "Phelps Hall, 1440",
+          "time": "Space 24",
+          "prof": "59444"
+        }
+      ]
+    }
+  ],
+  "CMPSC 192": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "CMPSC 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 1",
+      "sections": []
+    }
+  ],
+  "CMPSC 196": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "CMPSC 196B": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "CMPSC 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "CH E 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ],
+  "CH E 107": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "O'MALLEY M A",
+      "sections": []
+    }
+  ],
+  "CH E 110A": [
+    {
+      "days": "MWF",
+      "time": "12:00 PM-12:50 PM",
+      "prof": "GORDON M J",
+      "sections": [
+        {
+          "days": "W",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "GORDON M J"
+        }
+      ]
+    }
+  ],
+  "CH E 120B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "CHMELKA B F",
+      "sections": []
+    }
+  ],
+  "CH E 121": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "HELGESON M E",
+      "sections": []
+    }
+  ],
+  "CH E 132C": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "MUKHERJEE ARN",
+      "sections": [
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "MUKHERJEE ARN"
+        }
+      ]
+    }
+  ],
+  "CH E 141": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "MCFARLAND E W",
+      "sections": []
+    }
+  ],
+  "CH E 152B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "RAWLINGS J B",
+      "sections": []
+    }
+  ],
+  "CH E 154": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "DEY S S",
+      "sections": []
+    }
+  ],
+  "CH E 180B": [
+    {
+      "days": "T",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "CHADA J P",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    },
+    {
+      "days": "W",
+      "time": "1:00 PM-4:50 PM",
+      "prof": "CHADA J P",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "CH E 184A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "DOHERTY M F",
+      "sections": [
+        {
+          "days": "03798",
+          "time": " Final ",
+          "prof": "8:00 AM-9:15 AM"
+        },
+        {
+          "days": "CHRISTOPHER P",
+          "time": "Space 28",
+          "prof": "03806"
+        }
+      ]
+    }
+  ],
+  "CH E 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "GORDON M J",
+      "sections": []
+    }
+  ],
+  "CH E 196": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "CH E 198": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 7",
+      "sections": []
+    }
+  ],
+  "ME 6": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "MARKS T G",
+      "sections": [
+        {
+          "days": "T",
+          "time": "2:00 PM-4:50 PM",
+          "prof": "Space 2"
+        },
+        {
+          "days": "8:00 AM-10:50 AM",
+          "time": "ENGR2, 2218",
+          "prof": "Max 24"
+        },
+        {
+          "days": "ENGR2, 2218",
+          "time": "Space 1",
+          "prof": "34637"
+        },
+        {
+          "days": "Space Full",
+          "time": "Max 24"
+        }
+      ]
+    }
+  ],
+  "ME 12": [
+    {
+      "days": "F",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "FIELDS K",
+      "sections": []
+    }
+  ],
+  "ME 12S": [
+    {
+      "days": "M",
+      "time": "8:00 AM-8:50 AM",
+      "prof": "FIELDS K",
+      "sections": [
+        {
+          "days": "M",
+          "time": "9:00 AM-10:50 AM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "9:00 AM-10:50 AM",
+          "time": "Arts Building, 0249",
+          "prof": "Max 6"
+        },
+        {
+          "days": "Arts Building, 0249",
+          "time": "Space Full",
+          "prof": "34694"
+        },
+        {
+          "days": "Space 4",
+          "time": "Max 8",
+          "prof": "W"
+        },
+        {
+          "days": "Max 7",
+          "time": "34710",
+          "prof": "9:00 AM-10:50 AM"
+        },
+        {
+          "days": "34728",
+          "time": "R",
+          "prof": "Arts Building, 0249"
+        },
+        {
+          "days": "M",
+          "time": "11:00 AM-12:50 PM",
+          "prof": "Space Full"
+        }
+      ]
+    }
+  ],
+  "ME 15": [
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "BELTZ G",
+      "sections": [
+        {
+          "days": "F",
+          "time": "12:00 PM-12:50 PM",
+          "prof": "Space 5"
+        }
+      ]
+    }
+  ],
+  "ME 95": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 60",
+      "sections": []
+    }
+  ],
+  "ME 97": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 90",
+      "sections": []
+    }
+  ],
+  "ME 99": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 5",
+      "sections": []
+    }
+  ],
+  "ME 102": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "MATTHYS E F",
+      "sections": []
+    }
+  ],
+  "ME 108": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "TSAI G T",
+      "sections": []
+    }
+  ],
+  "ME 125ED": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "DRESSAIRE E M",
+      "sections": []
+    }
+  ],
+  "ME 125EH": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "HAWKES E W",
+      "sections": []
+    }
+  ],
+  "ME 125FA": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "DALY S H",
+      "sections": []
+    }
+  ],
+  "ME 125KF": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "FIELDS K",
+      "sections": []
+    }
+  ],
+  "ME 125MV": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "VALENTINE M T",
+      "sections": []
+    }
+  ],
+  "ME 125RM": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "MCMEEKING R M",
+      "sections": []
+    }
+  ],
+  "ME 127": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "TSAI G T",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "Space 2"
+        },
+        {
+          "days": "2:00 PM-4:50 PM",
+          "time": "ENGR2, 2226",
+          "prof": "Max 12"
+        }
+      ]
+    }
+  ],
+  "ME 141A": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "PENNATHUR S",
+      "sections": []
+    }
+  ],
+  "ME 151B": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "LIAO B",
+      "sections": []
+    }
+  ],
+  "ME 152B": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "SAURET A O",
+      "sections": []
+    }
+  ],
+  "ME 156B": [
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "SUSKO T G",
+      "sections": []
+    }
+  ],
+  "ME 158": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "CHAMBERS R T",
+      "sections": []
+    }
+  ],
+  "ME 159": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "PETZOLD L",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "ME 163": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "BAMIEH B A",
+      "sections": []
+    }
+  ],
+  "ME 186A": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "OROPEZA D",
+      "sections": []
+    }
+  ],
+  "ME 189B": [
+    {
+      "days": "MWF",
+      "time": "1:00 PM-1:50 PM",
+      "prof": "SUSKO T G",
+      "sections": []
+    }
+  ],
+  "ME 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "ME 197": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 50",
+      "sections": []
+    }
+  ],
+  "ME 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 25",
+      "sections": []
+    }
+  ],
+  "ECE 1A": [
+    {
+      "days": "M",
+      "time": "2:00 PM-2:50 PM",
+      "prof": "THEOGARAJAN L",
+      "sections": []
+    }
+  ],
+  "ECE 3": [
+    {
+      "days": "Cancel",
+      "time": "Cancel",
+      "prof": "Cancel",
+      "sections": []
+    }
+  ],
+  "ECE 5": [
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "BREWER F",
+      "sections": [
+        {
+          "days": "F",
+          "time": "12:00 PM-2:50 PM",
+          "prof": "DENG Z"
+        },
+        {
+          "days": "T",
+          "time": "5:00 PM-7:50 PM",
+          "prof": "BISWAL M"
+        },
+        {
+          "days": "F",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "DENG Z"
+        },
+        {
+          "days": "W",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "BISWAL M"
+        },
+        {
+          "days": "T.B.A.",
+          "time": "T.B.A.",
+          "prof": "Space Closed"
+        }
+      ]
+    }
+  ],
+  "ECE 10A": [
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "SALEM L G",
+      "sections": []
+    }
+  ],
+  "ECE 10AL": [
+    {
+      "days": "F",
+      "time": "9:00 AM-11:50 AM",
+      "prof": "SALEM L G",
+      "sections": [
+        {
+          "days": " Final  "
+        }
+      ]
+    }
+  ],
+  "ECE 10B": [
+    {
+      "days": "TR",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    }
+  ],
+  "ECE 10BL": [
+    {
+      "days": "W",
+      "time": "12:00 PM-3:50 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    },
+    {
+      "days": "T",
+      "time": "6:30 PM-10:20 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    },
+    {
+      "days": "W",
+      "time": "6:30 PM-10:20 PM",
+      "prof": "Space Closed",
+      "sections": []
+    },
+    {
+      "days": "R",
+      "time": "12:00 PM-3:50 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    },
+    {
+      "days": "R",
+      "time": "6:30 PM-10:20 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    },
+    {
+      "days": "T",
+      "time": "12:00 PM-3:50 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    },
+    {
+      "days": "F",
+      "time": "12:00 PM-3:50 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    },
+    {
+      "days": "M",
+      "time": "6:30 PM-10:20 PM",
+      "prof": "Space Closed",
+      "sections": []
+    },
+    {
+      "days": "M",
+      "time": "1:00 PM-3:50 PM",
+      "prof": "SCHOW C L",
+      "sections": []
+    }
+  ],
+  "ECE 15A": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "ZHANG Z",
+      "sections": [
+        {
+          "days": "F",
+          "time": "8:00 AM-8:50 AM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "3:00 PM-3:50 PM",
+          "time": "HSSB, 1206",
+          "prof": "Space 10"
+        },
+        {
+          "days": "8:00 AM-8:50 AM",
+          "time": "HSSB, 1215",
+          "prof": "Space 11"
+        },
+        {
+          "days": "1:00 PM-1:50 PM",
+          "time": "HSSB, 1224",
+          "prof": "Space 3"
+        },
+        {
+          "days": "8:00 AM-8:50 AM",
+          "time": "HSSB, 1211",
+          "prof": "Max 20"
+        },
+        {
+          "days": "HSSB, 1214",
+          "time": "GIORGI J M",
+          "prof": "Max 20"
+        },
+        {
+          "days": "HSSB, 1231",
+          "time": "LI SIQI",
+          "prof": "Max 20"
+        },
+        {
+          "days": "HSSB, 1224",
+          "time": "CHEN ZHUOTONG",
+          "prof": "Max 20"
+        }
+      ]
+    }
+  ],
+  "ECE 92": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "ECE 96": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "ECE 120A": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "BEN-YAACOV I",
+      "sections": [
+        {
+          "days": "T",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "7:00 PM-9:50 PM",
+          "time": "ENGR2, 1141E",
+          "prof": "Max 20"
+        }
+      ]
+    }
+  ],
+  "ECE 130A": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "MADHOW U",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-10:50 AM",
+          "prof": "SANCHEZ C D"
+        },
+        {
+          "days": "F",
+          "time": "2:00 PM-3:50 PM",
+          "prof": "SANDHU S S"
+        },
+        {
+          "days": "F",
+          "time": "11:00 AM-12:50 PM",
+          "prof": "ABDELRAHMAN A"
+        },
+        {
+          "days": "F",
+          "time": "4:00 PM-5:50 PM",
+          "prof": "DELAFROOZ NOR"
+        }
+      ]
+    }
+  ],
+  "ECE 130B": [
+    {
+      "days": "TR",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "CHANDRASEKARA",
+      "sections": [
+        {
+          "days": "R",
+          "time": "7:00 PM-8:50 PM",
+          "prof": "KINI G R"
+        },
+        {
+          "days": "F",
+          "time": "2:00 PM-3:50 PM",
+          "prof": "GHIASVAND S"
+        },
+        {
+          "days": "W",
+          "time": "2:00 PM-3:50 PM",
+          "prof": "JIANG NANFEI"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-8:50 PM",
+          "prof": "MADALA V"
+        }
+      ]
+    }
+  ],
+  "ECE 136B": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "SMITH S L",
+      "sections": [
+        {
+          "days": "F",
+          "time": "10:00 AM-10:50 AM",
+          "prof": "FEI Y"
+        }
+      ]
+    }
+  ],
+  "ECE 137A": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "THEOGARAJAN L",
+      "sections": [
+        {
+          "days": "R",
+          "time": "8:00 AM-10:50 AM",
+          "prof": "Space 7"
+        },
+        {
+          "days": "7:00 PM-9:50 PM",
+          "time": "Harold Frank Hall, 5160A",
+          "prof": "Max 25"
+        },
+        {
+          "days": "Harold Frank Hall, 5160A",
+          "time": "Space 2",
+          "prof": "12377"
+        }
+      ]
+    }
+  ],
+  "ECE 141A": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "PENNATHUR S",
+      "sections": []
+    }
+  ],
+  "ECE 144": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "KLAMKIN J",
+      "sections": [
+        {
+          "days": "W",
+          "time": "5:00 PM-5:50 PM",
+          "prof": "PANG Y"
+        }
+      ]
+    }
+  ],
+  "ECE 145B": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "RODWELL M J",
+      "sections": [
+        {
+          "days": "R",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "WHITEHEAD W O"
+        },
+        {
+          "days": "12419",
+          "time": "T",
+          "prof": "Harold Frank Hall, 5162D"
+        },
+        {
+          "days": "Max 10",
+          "time": "12427"
+        }
+      ]
+    }
+  ],
+  "ECE 146A": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "MOSTOFI Y C",
+      "sections": [
+        {
+          "days": "M",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "KATTEKOLA A"
+        },
+        {
+          "days": "T",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "KATTEKOLA A"
+        }
+      ]
+    }
+  ],
+  "ECE 147B": [
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "BYL K A",
+      "sections": [
+        {
+          "days": "W",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "DIAZ-GARCIA G"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "Space Closed"
+        }
+      ]
+    }
+  ],
+  "ECE 149": [
+    {
+      "days": "TR",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "MARDEN J R",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-9:50 AM",
+          "prof": "SHAH V S"
+        }
+      ]
+    }
+  ],
+  "ECE 152A": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "KIM B",
+      "sections": [
+        {
+          "days": "R",
+          "time": "1:00 PM-3:50 PM",
+          "prof": "NERELLA Y"
+        },
+        {
+          "days": "W",
+          "time": "4:00 PM-6:50 PM",
+          "prof": "Space Full"
+        },
+        {
+          "days": "1:00 PM-3:50 PM",
+          "time": "Harold Frank Hall, 1124",
+          "prof": "Max 20"
+        }
+      ]
+    }
+  ],
+  "ECE 153B": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "ISUKAPALLI Y",
+      "sections": [
+        {
+          "days": "T",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "DING LIMIN"
+        },
+        {
+          "days": "R",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "KIM SUNG JIN"
+        },
+        {
+          "days": "W",
+          "time": "7:00 PM-9:50 PM",
+          "prof": "CHAU R V"
+        }
+      ]
+    }
+  ],
+  "ECE 154B": [
+    {
+      "days": "TR",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "STRUKOV D B",
+      "sections": [
+        {
+          "days": "T.B.A.",
+          "time": "T.B.A.",
+          "prof": "TIAN J"
+        }
+      ]
+    }
+  ],
+  "ECE 157B": [
+    {
+      "days": "MW",
+      "time": "5:00 PM-6:15 PM",
+      "prof": "WANG L C",
+      "sections": [
+        {
+          "days": "F",
+          "time": "3:00 PM-5:50 PM",
+          "prof": "Space Closed"
+        },
+        {
+          "days": "7:00 PM-9:50 PM",
+          "time": "Harold Frank Hall, 1124",
+          "prof": "Space Full"
+        },
+        {
+          "days": "8:00 PM-10:50 PM",
+          "time": "Harold Frank Hall, 1124",
+          "prof": "Space Full"
+        }
+      ]
+    }
+  ],
+  "ECE 162B": [
+    {
+      "days": "MW",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "DENBAARS S P",
+      "sections": [
+        {
+          "days": "W",
+          "time": "6:00 PM-6:50 PM",
+          "prof": "ALJARBOUA I A"
+        }
+      ]
+    }
+  ],
+  "ECE 178": [
+    {
+      "days": "MW",
+      "time": "9:30 AM-10:45 AM",
+      "prof": "SEN P",
+      "sections": [
+        {
+          "days": "F",
+          "time": "11:00 AM-11:50 AM",
+          "prof": "KHAN A I"
+        },
+        {
+          "days": "12666",
+          "time": "F",
+          "prof": "South Hall, 1609"
+        },
+        {
+          "days": "Max 25",
+          "time": "12674",
+          "prof": "1:00 PM-1:50 PM"
+        },
+        {
+          "days": "12682"
+        }
+      ]
+    }
+  ],
+  "ECE 188B": [
+    {
+      "days": "MW",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "BEN-YAACOV I",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-1:50 PM",
+          "prof": "REROLLE P R"
+        },
+        {
+          "days": "Max 75",
+          "time": "12740"
+        }
+      ]
+    }
+  ],
+  "ECE 189B": [
+    {
+      "days": "TR",
+      "time": "12:30 PM-1:45 PM",
+      "prof": "ISUKAPALLI Y",
+      "sections": [
+        {
+          "days": "F",
+          "time": "1:00 PM-3:50 PM",
+          "prof": "LAI A S"
+        },
+        {
+          "days": "Max 60",
+          "time": "12765"
+        }
+      ]
+    }
+  ],
+  "ECE 192": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "ECE 193": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 10",
+      "sections": []
+    }
+  ],
+  "ECE 194BB": [
+    {
+      "days": "TR",
+      "time": "2:00 PM-3:15 PM",
+      "prof": "QIN YAO",
+      "sections": []
+    },
+    {
+      "days": "MW",
+      "time": "3:30 PM-4:45 PM",
+      "prof": "Space 2",
+      "sections": []
+    }
+  ],
+  "ECE 194C": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "GIBSON J D",
+      "sections": []
+    }
+  ],
+  "ECE 194T": [
+    {
+      "days": "MW",
+      "time": "11:00 AM-12:15 PM",
+      "prof": "VISELL Y",
+      "sections": [
+        {
+          "days": "F",
+          "time": "9:00 AM-11:50 AM",
+          "prof": "Space 1"
+        }
+      ]
+    }
+  ],
+  "ECE 196": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 30",
+      "sections": []
+    }
+  ],
+  "ECE 199": [
+    {
+      "days": "T.B.A.",
+      "time": "T.B.A.",
+      "prof": "Space 20",
+      "sections": []
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-## Devpost: https://devpost.com/software/ucsb-course-schedule-builder 
+## Devpost: 
+https://devpost.com/software/ucsb-course-schedule-builder 
 
 ## Inspiration
 GOLD is buggy, so we wanted to make course scheduling a more stress-free experience, and develop a program that is more user-friendly and adaptable.
